@@ -63,7 +63,7 @@ export default function SlideOvers({ children, cRef }) {
                                         <div className='max-w-7xl mx-auto space-y-6'>
                                             <h2 className='text-4xl text-gray-200'>{siteConfig('AUTHOR')}</h2>
                                             <h2 className='text-2xl text-gray-400'>{siteConfig('BIO')}</h2>
-                                            <h2 className='text-4xl text-gray-200'>企鹅1951282636</h2>
+                                            <h2 className='text-4xl text-gray-200'>Email:xinquanyu@proton.me</h2>
                                             <SocialButton/>
                                             <Footer/>
                                         </div>
